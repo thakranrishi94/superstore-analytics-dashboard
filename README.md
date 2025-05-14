@@ -36,6 +36,3 @@ This project involves analyzing and visualizing Superstore sales data using SQL 
 - Regional performance analysis.
 - Top-performing products and customers.
 
-## Contact
-Feel free to reach out for any queries or collaborations:  
-[deepakbhatia70561@gmail.com] | [https://www.linkedin.com/in/deepak-bhatia70/]
